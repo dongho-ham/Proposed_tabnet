@@ -1,4 +1,4 @@
-<img width="1244" height="374" alt="image" src="https://github.com/user-attachments/assets/5c9d6d8c-1657-443a-ade5-6dc52b1978af" /># Proposed TabNet
+# Proposed TabNet
 
 Self-supervised TabNet 기반 사출성형 품질 분류 모델 (Class Imbalance 문제 해결)
 
@@ -81,3 +81,4 @@ python evaluate.py --checkpoint best_model.pth
 
 - 논문 제출 예정 (2026년 상반기)
 - Original TabNet Paper: [Arik & Pfister, 2020]
+
